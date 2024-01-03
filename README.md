@@ -1,5 +1,6 @@
 <h1> Menjalankan Program </h1>
 
+#php artisan migrate 
 
 #npm run dev 
 
